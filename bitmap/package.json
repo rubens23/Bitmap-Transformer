@@ -1,0 +1,24 @@
+{
+  "name": "Bitmap-Transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubens23/Bitmap-Transformer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubens23/Bitmap-Transformer/issues"
+  },
+  "homepage": "https://github.com/rubens23/Bitmap-Transformer#readme",
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "gulp": "^3.9.1"
+  }
+}
