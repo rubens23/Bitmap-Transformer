@@ -1,9 +1,8 @@
-'use strict';
 const expect = require('chai').expect;
+const bitmap = require('../bitmap');
 
-dexcribe('Bitmap tests', () => {
-  it('should have transformed', () => {
-
+describe('Buffer Data', () => {
+  it('should read in information as a buffer', () => {
+    expect(Buffer.isBuffer(bitmap)).to.eql(true);
   });
-  it('should ')
-})
+});
